@@ -4,7 +4,7 @@
 
 **This project has a [Code of Conduct][].**
 
-**This project is a fork**
+**This project is a fork.**
 
 ## Table of contents
 
