@@ -4,6 +4,8 @@
 
 **This project has a [Code of Conduct][].**
 
+**This project is a fork**
+
 ## Table of contents
 
 * [Installation](#Installation)
